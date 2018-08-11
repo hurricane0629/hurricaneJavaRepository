@@ -1,4 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
 Creating a new branch is quick.
-Git has a mutable index called satag.
+Git has a mutable index called stagss.
